@@ -251,3 +251,9 @@ ul {
 		margin-bottom: 1.5rem;
 	}
 }
+
+@media(max-width: 480px) {
+	html {
+		font-size: 62.5%;
+	}
+}
